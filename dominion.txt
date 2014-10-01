@@ -1,0 +1,449 @@
+------------ Game Setup ------------
+Supply cards: Moat, Bureaucrat, Militia, Moneylender, Remodel, Smithy, Festival, Laboratory, Market, Adventurer, Copper, Silver, Gold, Estate, Duchy, Province, Curse
+Rating system: casual
+atperk - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+vsiewnar - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+atperk - shuffles deck
+vsiewnar - shuffles deck
+atperk - draws Copper, Copper, Estate, Copper, Copper
+vsiewnar - draws Estate, Copper, Copper, Estate, Copper
+ 
+---------- atperk: turn 1 ----------
+atperk - plays 4 Copper
+atperk - buys Smithy
+atperk - gains Smithy
+atperk - draws Estate, Copper, Copper, Copper, Estate
+ 
+---------- vsiewnar: turn 1 ----------
+vsiewnar - plays 3 Copper
+vsiewnar - buys Silver
+vsiewnar - gains Silver
+vsiewnar - draws Copper, Copper, Estate, Copper, Copper
+ 
+---------- atperk: turn 2 ----------
+atperk - plays 3 Copper
+atperk - buys Silver
+atperk - gains Silver
+atperk - shuffles deck
+atperk - draws Copper, Estate, Silver, Copper, Copper
+ 
+---------- vsiewnar: turn 2 ----------
+vsiewnar - plays 4 Copper
+vsiewnar - buys Militia
+vsiewnar - gains Militia
+vsiewnar - shuffles deck
+vsiewnar - draws Copper, Copper, Copper, Estate, Copper
+ 
+---------- atperk: turn 3 ----------
+atperk - plays 3 Copper, 1 Silver
+atperk - buys Festival
+atperk - gains Festival
+atperk - draws Estate, Copper, Estate, Copper, Copper
+ 
+---------- vsiewnar: turn 3 ----------
+vsiewnar - plays 4 Copper
+vsiewnar - buys Moneylender
+vsiewnar - gains Moneylender
+vsiewnar - draws Copper, Estate, Militia, Silver, Estate
+ 
+---------- atperk: turn 4 ----------
+atperk - plays 3 Copper
+atperk - buys Moat
+atperk - gains Moat
+atperk - draws Copper, Smithy
+atperk - shuffles deck
+atperk - draws Copper, Estate, Copper
+ 
+---------- vsiewnar: turn 4 ----------
+vsiewnar - plays Militia
+atperk - discards Estate
+atperk - discards Copper
+vsiewnar - plays 1 Copper, 1 Silver
+vsiewnar - buys Festival
+vsiewnar - gains Festival
+vsiewnar - draws Copper, Copper
+vsiewnar - shuffles deck
+vsiewnar - draws Copper, Militia, Festival
+ 
+---------- atperk: turn 5 ----------
+atperk - plays Smithy
+atperk - draws Estate, Copper, Copper
+atperk - plays 4 Copper
+atperk - buys Remodel
+atperk - gains Remodel
+atperk - draws Moat, Copper, Copper, Estate, Festival
+ 
+---------- vsiewnar: turn 5 ----------
+vsiewnar - plays Festival
+vsiewnar - plays Militia
+atperk - reveals reaction Moat
+vsiewnar - plays 3 Copper
+vsiewnar - buys Laboratory
+vsiewnar - gains Laboratory
+vsiewnar - draws Copper, Copper, Estate, Estate, Moneylender
+ 
+---------- atperk: turn 6 ----------
+atperk - plays Festival
+atperk - plays Moat
+atperk - draws Silver
+atperk - shuffles deck
+atperk - draws Estate
+atperk - plays 2 Copper, 1 Silver
+atperk - buys Gold
+atperk - gains Gold
+atperk - draws Remodel, Copper, Copper, Copper, Smithy
+ 
+---------- vsiewnar: turn 6 ----------
+vsiewnar - plays Moneylender
+vsiewnar - trashes Copper
+vsiewnar - buys Silver
+vsiewnar - gains Silver
+vsiewnar - draws Silver, Estate, Copper, Copper
+vsiewnar - shuffles deck
+vsiewnar - draws Silver
+ 
+---------- atperk: turn 7 ----------
+atperk - plays Smithy
+atperk - draws Copper, Copper, Estate
+atperk - plays 5 Copper
+atperk - buys Festival
+atperk - gains Festival
+atperk - shuffles deck
+atperk - draws Estate, Moat, Festival, Copper, Gold
+ 
+---------- vsiewnar: turn 7 ----------
+vsiewnar - plays 2 Silver, 2 Copper
+vsiewnar - buys Laboratory
+vsiewnar - gains Laboratory
+vsiewnar - draws Estate, Copper, Festival, Copper, Copper
+ 
+---------- atperk: turn 8 ----------
+atperk - plays Festival
+atperk - plays Moat
+atperk - draws Copper, Estate
+atperk - plays 2 Copper, 1 Gold
+atperk - buys Gold
+atperk - gains Gold
+atperk - draws Copper, Festival, Silver, Copper, Copper
+ 
+---------- vsiewnar: turn 8 ----------
+vsiewnar - plays Festival
+vsiewnar - plays 3 Copper
+vsiewnar - buys Laboratory
+vsiewnar - gains Laboratory
+vsiewnar - draws Estate, Laboratory, Moneylender, Copper, Militia
+ 
+---------- atperk: turn 9 ----------
+atperk - plays Festival
+atperk - plays 3 Copper, 1 Silver
+atperk - buys Festival
+atperk - gains Festival
+atperk - buys Moat
+atperk - gains Moat
+atperk - draws Copper, Copper, Remodel, Estate, Smithy
+ 
+---------- vsiewnar: turn 9 ----------
+vsiewnar - plays Laboratory
+vsiewnar - shuffles deck
+vsiewnar - draws Copper, Laboratory
+vsiewnar - plays Laboratory
+vsiewnar - draws Festival, Copper
+vsiewnar - plays Festival
+vsiewnar - plays Moneylender
+vsiewnar - trashes Copper
+vsiewnar - plays Militia
+atperk - discards Estate
+atperk - discards Remodel
+vsiewnar - plays 2 Copper
+vsiewnar - buys Festival
+vsiewnar - gains Festival
+vsiewnar - buys Smithy
+vsiewnar - gains Smithy
+vsiewnar - draws Estate, Copper, Copper, Copper, Silver
+ 
+---------- atperk: turn 10 ----------
+atperk - plays Smithy
+atperk - shuffles deck
+atperk - draws Gold, Moat, Estate
+atperk - plays 2 Copper, 1 Gold
+atperk - buys Laboratory
+atperk - gains Laboratory
+atperk - draws Silver, Copper, Gold, Remodel, Copper
+ 
+---------- vsiewnar: turn 10 ----------
+vsiewnar - plays 3 Copper, 1 Silver
+vsiewnar - buys Laboratory
+vsiewnar - gains Laboratory
+vsiewnar - draws Estate, Laboratory, Silver
+vsiewnar - shuffles deck
+vsiewnar - draws Copper, Copper
+ 
+---------- atperk: turn 11 ----------
+atperk - plays 2 Copper, 1 Silver, 1 Gold
+atperk - buys Adventurer
+atperk - gains Adventurer
+atperk - draws Copper, Festival, Estate, Festival, Copper
+ 
+---------- vsiewnar: turn 11 ----------
+vsiewnar - plays Laboratory
+vsiewnar - draws Estate, Laboratory
+vsiewnar - plays Laboratory
+vsiewnar - draws Copper, Festival
+vsiewnar - plays Festival
+vsiewnar - plays 3 Copper, 1 Silver
+vsiewnar - buys Laboratory
+vsiewnar - gains Laboratory
+vsiewnar - draws Festival, Smithy, Silver, Laboratory, Copper
+ 
+---------- atperk: turn 12 ----------
+atperk - plays Festival
+atperk - plays Festival
+atperk - plays 2 Copper
+atperk - buys Laboratory
+atperk - gains Laboratory
+atperk - draws Copper, Festival, Estate, Moat
+atperk - shuffles deck
+atperk - draws Gold
+ 
+---------- vsiewnar: turn 12 ----------
+vsiewnar - plays Laboratory
+vsiewnar - draws Copper, Estate
+vsiewnar - plays Festival
+vsiewnar - plays Smithy
+vsiewnar - draws Militia, Laboratory, Moneylender
+vsiewnar - plays Laboratory
+vsiewnar - shuffles deck
+vsiewnar - draws Laboratory, Copper
+vsiewnar - plays Laboratory
+vsiewnar - draws Copper, Copper
+vsiewnar - plays Moneylender
+vsiewnar - trashes Copper
+vsiewnar - plays 4 Copper, 1 Silver
+vsiewnar - buys Laboratory
+vsiewnar - gains Laboratory
+vsiewnar - buys Gold
+vsiewnar - gains Gold
+vsiewnar - draws Laboratory, Estate, Laboratory, Estate, Festival
+ 
+---------- atperk: turn 13 ----------
+atperk - plays Festival
+atperk - plays Moat
+atperk - draws Copper, Copper
+atperk - plays 3 Copper, 1 Gold
+atperk - buys Laboratory
+atperk - gains Laboratory
+atperk - buys Moat
+atperk - gains Moat
+atperk - draws Estate, Copper, Copper, Copper, Festival
+ 
+---------- vsiewnar: turn 13 ----------
+vsiewnar - plays Laboratory
+vsiewnar - draws Silver
+vsiewnar - shuffles deck
+vsiewnar - draws Laboratory
+vsiewnar - plays Laboratory
+vsiewnar - draws Militia, Laboratory
+vsiewnar - plays Laboratory
+vsiewnar - draws Copper, Copper
+vsiewnar - plays Laboratory
+vsiewnar - draws Silver, Moneylender
+vsiewnar - plays Festival
+vsiewnar - plays Militia
+atperk - discards Estate
+atperk - discards Copper
+vsiewnar - plays Moneylender
+vsiewnar - trashes Copper
+vsiewnar - plays 2 Silver, 1 Copper
+vsiewnar - buys Laboratory
+vsiewnar - gains Laboratory
+vsiewnar - buys Market
+vsiewnar - gains Market
+vsiewnar - draws Laboratory, Copper, Copper, Estate, Gold
+ 
+---------- atperk: turn 14 ----------
+atperk - plays Festival
+atperk - plays 2 Copper
+atperk - buys Smithy
+atperk - gains Smithy
+atperk - draws Festival, Gold, Smithy, Estate, Moat
+ 
+---------- vsiewnar: turn 14 ----------
+vsiewnar - plays Laboratory
+vsiewnar - draws Festival, Laboratory
+vsiewnar - plays Festival
+vsiewnar - plays Laboratory
+vsiewnar - draws Smithy
+vsiewnar - shuffles deck
+vsiewnar - draws Laboratory
+vsiewnar - plays Smithy
+vsiewnar - draws Silver, Militia, Laboratory
+vsiewnar - plays Laboratory
+vsiewnar - draws Laboratory, Festival
+vsiewnar - plays Laboratory
+vsiewnar - draws Moneylender, Estate
+vsiewnar - plays Laboratory
+vsiewnar - draws Market, Laboratory
+vsiewnar - plays Festival
+vsiewnar - plays Market
+vsiewnar - draws Estate
+vsiewnar - plays Laboratory
+vsiewnar - draws Laboratory, Silver
+vsiewnar - plays Laboratory
+vsiewnar - draws Copper
+vsiewnar - plays Moneylender
+vsiewnar - trashes Copper
+vsiewnar - plays Militia
+atperk - reveals reaction Moat
+vsiewnar - plays 2 Copper, 2 Silver, 1 Gold
+vsiewnar - buys Province
+vsiewnar - gains Province
+vsiewnar - buys Province
+vsiewnar - gains Province
+vsiewnar - shuffles deck
+vsiewnar - draws Estate, Silver, Market, Festival, Laboratory
+ 
+---------- atperk: turn 15 ----------
+atperk - plays Festival
+atperk - plays Smithy
+atperk - draws Laboratory, Remodel, Silver
+atperk - plays Laboratory
+atperk - draws Adventurer, Laboratory
+atperk - plays Laboratory
+atperk - draws Copper
+atperk - shuffles deck
+atperk - draws Copper
+atperk - plays Adventurer
+atperk - reveals Copper, Estate, Copper
+atperk - places cards in hand:  Copper, Copper
+atperk - discards Estate
+atperk - plays 4 Copper, 1 Gold, 1 Silver
+atperk - buys Province
+atperk - gains Province
+atperk - buys Moat
+atperk - gains Moat
+atperk - draws Festival, Gold, Moat, Festival, Copper
+ 
+---------- vsiewnar: turn 15 ----------
+vsiewnar - plays Laboratory
+vsiewnar - draws Festival, Silver
+vsiewnar - plays Market
+vsiewnar - draws Province
+vsiewnar - plays Festival
+vsiewnar - plays Festival
+vsiewnar - plays 2 Silver
+vsiewnar - buys Province
+vsiewnar - gains Province
+vsiewnar - draws Estate, Copper, Province, Militia, Moneylender
+ 
+---------- atperk: turn 16 ----------
+atperk - plays Festival
+atperk - plays Festival
+atperk - plays Moat
+atperk - draws Laboratory, Moat
+atperk - plays Laboratory
+atperk - draws Copper, Estate
+atperk - plays Moat
+atperk - draws Copper, Smithy
+atperk - plays Smithy
+atperk - shuffles deck
+atperk - draws Festival, Silver, Moat
+atperk - plays 3 Copper, 1 Gold, 1 Silver
+atperk - buys Province
+atperk - gains Province
+atperk - buys Estate
+atperk - gains Estate
+atperk - buys Estate
+atperk - gains Estate
+atperk - draws Estate, Copper, Adventurer, Copper, Remodel
+ 
+---------- vsiewnar: turn 16 ----------
+vsiewnar - plays Militia
+atperk - discards Estate
+atperk - discards Remodel
+vsiewnar - buys Estate
+vsiewnar - gains Estate
+vsiewnar - draws Gold, Laboratory, Estate, Copper, Laboratory
+ 
+---------- atperk: turn 17 ----------
+atperk - plays Adventurer
+atperk - reveals Province, Copper, Smithy, Copper
+atperk - places cards in hand:  Copper, Copper
+atperk - discards: Province, Smithy
+atperk - plays 4 Copper
+atperk - buys Smithy
+atperk - gains Smithy
+atperk - draws Estate, Laboratory, Laboratory, Gold, Moat
+ 
+---------- vsiewnar: turn 17 ----------
+vsiewnar - plays Laboratory
+vsiewnar - draws Laboratory, Laboratory
+vsiewnar - plays Laboratory
+vsiewnar - draws Laboratory, Laboratory
+vsiewnar - plays Laboratory
+vsiewnar - draws Smithy
+vsiewnar - shuffles deck
+vsiewnar - draws Silver
+vsiewnar - plays Laboratory
+vsiewnar - draws Province, Laboratory
+vsiewnar - plays Laboratory
+vsiewnar - draws Festival, Militia
+vsiewnar - plays Festival
+vsiewnar - plays Smithy
+vsiewnar - draws Moneylender, Province, Estate
+vsiewnar - plays Laboratory
+vsiewnar - draws Province, Festival
+vsiewnar - plays Laboratory
+vsiewnar - draws Market, Copper
+vsiewnar - plays Market
+vsiewnar - draws Estate
+vsiewnar - plays Festival
+vsiewnar - plays Moneylender
+vsiewnar - trashes Copper
+vsiewnar - plays Militia
+atperk - reveals reaction Moat
+vsiewnar - plays 1 Gold, 1 Copper, 1 Silver
+vsiewnar - buys Province
+vsiewnar - gains Province
+vsiewnar - buys Province
+vsiewnar - gains Province
+vsiewnar - draws Silver, Estate
+vsiewnar - shuffles deck
+vsiewnar - draws Gold, Laboratory, Laboratory
+ 
+---------- atperk: turn 18 ----------
+atperk - plays Laboratory
+atperk - shuffles deck
+atperk - draws Estate, Smithy
+atperk - plays Laboratory
+atperk - draws Estate, Copper
+atperk - plays Smithy
+atperk - draws Smithy, Moat, Adventurer
+atperk - plays 1 Gold, 1 Copper
+atperk - buys Silver
+atperk - gains Silver
+atperk - draws Smithy, Copper, Copper, Festival, Moat
+ 
+---------- vsiewnar: turn 18 ----------
+vsiewnar - plays Laboratory
+vsiewnar - draws Estate, Province
+vsiewnar - plays Laboratory
+vsiewnar - draws Festival, Festival
+vsiewnar - plays Festival
+vsiewnar - plays Festival
+vsiewnar - plays 1 Silver, 1 Gold
+vsiewnar - buys Province
+vsiewnar - gains Province
+vsiewnar - draws Smithy, Province, Militia, Estate, Province
+ 
+------------ Game Over ------------
+vsiewnar - cards: 7 Laboratory, 2 Festival, 1 Smithy, 1 Militia, 1 Market, 1 Moneylender, 2 Silver, 1 Gold, 1 Copper, 6 Province, 4 Estate
+vsiewnar - total victory points: 40
+vsiewnar - turns: 18
+ 
+atperk - cards: 4 Moat, 3 Smithy, 3 Festival, 3 Laboratory, 1 Adventurer, 1 Remodel, 7 Copper, 2 Silver, 2 Gold, 5 Estate, 2 Province
+atperk - total victory points: 17
+atperk - turns: 18
+ 
+1st place: vsiewnar
+2nd place: atperk
+ 

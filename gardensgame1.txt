@@ -1,0 +1,612 @@
+------------ Game Setup ------------
+Supply cards: Cellar, Apothecary, University, Chancellor, Familiar, Gardens, Moneylender, Remodel, Library, Mine, Copper, Silver, Gold, Estate, Duchy, Province, Curse, Potion
+Rating system: pro
+vsiewnar - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+wadomin - starting cards: Estate, Estate, Estate, Copper, Copper, Copper, Copper, Copper, Copper, Copper
+vsiewnar - shuffles deck
+wadomin - shuffles deck
+vsiewnar - draws Estate, Copper, Estate, Copper, Copper
+wadomin - draws Copper, Estate, Copper, Estate, Copper
+ 
+---------- vsiewnar: turn 1 ----------
+vsiewnar - plays 3 Copper
+vsiewnar - buys Chancellor
+vsiewnar - gains Chancellor
+vsiewnar - draws Estate, Copper, Copper, Copper, Copper
+ 
+---------- wadomin: turn 1 ----------
+wadomin - plays 3 Copper
+wadomin - buys Silver
+wadomin - gains Silver
+wadomin - draws Copper, Copper, Copper, Copper, Estate
+ 
+---------- vsiewnar: turn 2 ----------
+vsiewnar - plays 4 Copper
+vsiewnar - buys Potion
+vsiewnar - gains Potion
+vsiewnar - shuffles deck
+vsiewnar - draws Potion, Estate, Copper, Estate, Copper
+ 
+---------- wadomin: turn 2 ----------
+wadomin - plays 4 Copper
+wadomin - buys Potion
+wadomin - gains Potion
+wadomin - shuffles deck
+wadomin - draws Copper, Estate, Copper, Silver, Estate
+ 
+---------- vsiewnar: turn 3 ----------
+vsiewnar - plays 2 Copper, 1 Potion
+vsiewnar - buys Apothecary
+vsiewnar - gains Apothecary
+vsiewnar - draws Copper, Copper, Chancellor, Copper, Copper
+ 
+---------- wadomin: turn 3 ----------
+wadomin - plays 2 Copper, 1 Silver
+wadomin - buys Moneylender
+wadomin - gains Moneylender
+wadomin - draws Potion, Copper, Copper, Copper, Estate
+ 
+---------- vsiewnar: turn 4 ----------
+vsiewnar - plays Chancellor
+vsiewnar - moves deck to discards
+vsiewnar - plays 4 Copper
+vsiewnar - buys Gold
+vsiewnar - gains Gold
+vsiewnar - shuffles deck
+vsiewnar - draws Copper, Copper, Copper, Copper, Copper
+ 
+---------- wadomin: turn 4 ----------
+wadomin - plays 3 Copper, 1 Potion
+wadomin - buys Familiar
+wadomin - gains Familiar
+wadomin - draws Copper, Copper
+wadomin - shuffles deck
+wadomin - draws Moneylender, Familiar, Copper
+ 
+---------- vsiewnar: turn 5 ----------
+vsiewnar - plays 5 Copper
+vsiewnar - buys Cellar
+vsiewnar - gains Cellar
+vsiewnar - draws Estate, Copper, Estate, Estate, Apothecary
+ 
+---------- wadomin: turn 5 ----------
+wadomin - plays Familiar
+wadomin - draws Estate
+vsiewnar - gains Curse
+wadomin - plays Moneylender
+wadomin - trashes Copper
+wadomin - plays 2 Copper
+wadomin - buys Library
+wadomin - gains Library
+wadomin - draws Copper, Silver, Copper, Estate, Copper
+ 
+---------- vsiewnar: turn 6 ----------
+vsiewnar - plays Apothecary
+vsiewnar - draws Gold
+vsiewnar - reveals: Copper, Chancellor, Potion
+vsiewnar - shuffles deck
+vsiewnar - reveals: Copper
+vsiewnar - places Chancellor on top of deck
+vsiewnar - plays 3 Copper, 1 Gold, 1 Potion
+vsiewnar - buys Familiar
+vsiewnar - gains Familiar
+vsiewnar - draws Chancellor, Curse, Cellar, Copper, Copper
+ 
+---------- wadomin: turn 6 ----------
+wadomin - plays 3 Copper, 1 Silver
+wadomin - buys Remodel
+wadomin - gains Remodel
+wadomin - draws Potion, Copper, Estate
+wadomin - shuffles deck
+wadomin - draws Familiar, Copper
+ 
+---------- vsiewnar: turn 7 ----------
+vsiewnar - plays Cellar
+vsiewnar - discards Copper
+vsiewnar - discards Copper
+vsiewnar - discards Curse
+vsiewnar - draws Copper, Copper
+vsiewnar - shuffles deck
+vsiewnar - draws Curse
+vsiewnar - plays Chancellor
+vsiewnar - plays 2 Copper
+vsiewnar - buys Silver
+vsiewnar - gains Silver
+vsiewnar - draws Gold, Potion, Copper, Estate, Copper
+ 
+---------- wadomin: turn 7 ----------
+wadomin - plays Familiar
+wadomin - draws Copper
+vsiewnar - gains Curse
+wadomin - plays 3 Copper, 1 Potion
+wadomin - buys Familiar
+wadomin - gains Familiar
+wadomin - draws Copper, Remodel, Estate, Silver, Estate
+ 
+---------- vsiewnar: turn 8 ----------
+vsiewnar - plays 2 Copper, 1 Gold, 1 Potion
+vsiewnar - buys Familiar
+vsiewnar - gains Familiar
+vsiewnar - draws Familiar, Copper, Copper, Apothecary, Estate
+ 
+---------- wadomin: turn 8 ----------
+wadomin - plays Remodel
+wadomin - trashes Estate
+wadomin - gains Silver
+wadomin - plays 1 Copper, 1 Silver
+wadomin - buys Cellar
+wadomin - gains Cellar
+wadomin - draws Copper, Copper, Library, Moneylender
+wadomin - shuffles deck
+wadomin - draws Familiar
+ 
+---------- vsiewnar: turn 9 ----------
+vsiewnar - plays Apothecary
+vsiewnar - draws Copper
+vsiewnar - reveals: Estate
+vsiewnar - shuffles deck
+vsiewnar - reveals: Curse, Familiar, Silver
+vsiewnar - places Curse on top of deck
+vsiewnar - places Estate on top of deck
+vsiewnar - places Silver on top of deck
+vsiewnar - places Familiar on top of deck
+vsiewnar - plays Familiar
+vsiewnar - draws Familiar
+wadomin - gains Curse
+vsiewnar - plays Familiar
+vsiewnar - draws Silver
+wadomin - gains Curse
+vsiewnar - plays 3 Copper, 1 Silver
+vsiewnar - buys Cellar
+vsiewnar - gains Cellar
+vsiewnar - draws Estate, Curse, Copper, Copper, Potion
+ 
+---------- wadomin: turn 9 ----------
+wadomin - plays Familiar
+wadomin - draws Copper
+vsiewnar - gains Curse
+wadomin - plays Moneylender
+wadomin - trashes Copper
+wadomin - plays 2 Copper
+wadomin - buys Library
+wadomin - gains Library
+wadomin - draws Silver, Silver, Copper, Familiar, Estate
+ 
+---------- vsiewnar: turn 10 ----------
+vsiewnar - plays 2 Copper, 1 Potion
+vsiewnar - buys University
+vsiewnar - gains University
+vsiewnar - draws Curse, Copper, Copper, Chancellor, Gold
+ 
+---------- wadomin: turn 10 ----------
+wadomin - plays Familiar
+wadomin - draws Estate
+vsiewnar - gains Curse
+wadomin - plays 2 Silver, 1 Copper
+wadomin - buys Potion
+wadomin - gains Potion
+wadomin - draws Copper, Cellar, Potion, Copper, Remodel
+ 
+---------- vsiewnar: turn 11 ----------
+vsiewnar - plays Chancellor
+vsiewnar - moves deck to discards
+vsiewnar - plays 2 Copper, 1 Gold
+vsiewnar - buys Gold
+vsiewnar - gains Gold
+vsiewnar - shuffles deck
+vsiewnar - draws Estate, Potion, Chancellor, Cellar, University
+ 
+---------- wadomin: turn 11 ----------
+wadomin - plays 2 Copper, 1 Potion
+wadomin - buys Apothecary
+wadomin - gains Apothecary
+wadomin - shuffles deck
+wadomin - draws Familiar, Silver, Remodel, Library, Copper
+ 
+---------- vsiewnar: turn 12 ----------
+vsiewnar - plays University
+vsiewnar - gains Cellar
+vsiewnar - plays Cellar
+vsiewnar - discards Estate
+vsiewnar - discards Potion
+vsiewnar - discards Chancellor
+vsiewnar - draws Copper, Curse, Curse
+vsiewnar - buys Copper
+vsiewnar - gains Copper
+vsiewnar - draws Estate, Silver, Cellar, Copper, Curse
+ 
+---------- wadomin: turn 12 ----------
+wadomin - plays Familiar
+wadomin - draws Familiar
+vsiewnar - gains Curse
+wadomin - plays Familiar
+wadomin - draws Potion
+vsiewnar - gains Curse
+wadomin - plays Remodel
+wadomin - trashes Copper
+wadomin - gains Cellar
+wadomin - plays 1 Silver, 1 Potion
+wadomin - buys University
+wadomin - gains University
+wadomin - draws Curse, Library, Potion, Curse, Estate
+ 
+---------- vsiewnar: turn 13 ----------
+vsiewnar - plays Cellar
+vsiewnar - discards Curse
+vsiewnar - discards Estate
+vsiewnar - discards Copper
+vsiewnar - draws Apothecary, Estate, Familiar
+vsiewnar - plays Apothecary
+vsiewnar - draws Copper
+vsiewnar - reveals: Gold, Copper, Copper, Familiar
+vsiewnar - places Gold on top of deck
+vsiewnar - places Familiar on top of deck
+vsiewnar - plays Familiar
+vsiewnar - draws Familiar
+wadomin - gains Curse
+vsiewnar - plays Familiar
+vsiewnar - draws Gold
+wadomin - gains Curse
+vsiewnar - plays 3 Copper, 1 Silver, 1 Gold
+vsiewnar - buys Province
+vsiewnar - gains Province
+vsiewnar - draws Copper, Gold, Copper, Curse
+vsiewnar - shuffles deck
+vsiewnar - draws Curse
+ 
+---------- wadomin: turn 13 ----------
+wadomin - plays Library
+wadomin - draws Silver
+wadomin - draws Copper
+wadomin - draws Estate
+wadomin - plays 1 Potion, 1 Silver, 1 Copper
+wadomin - buys Apothecary
+wadomin - gains Apothecary
+wadomin - draws Copper, Moneylender, Copper, Cellar, Copper
+ 
+---------- vsiewnar: turn 14 ----------
+vsiewnar - plays 2 Copper, 1 Gold
+vsiewnar - buys Gardens
+vsiewnar - gains Gardens
+vsiewnar - draws Potion, Familiar, Curse, Copper, University
+ 
+---------- wadomin: turn 14 ----------
+wadomin - plays Cellar
+wadomin - discards Copper
+wadomin - discards Copper
+wadomin - draws Apothecary
+wadomin - shuffles deck
+wadomin - draws Curse
+wadomin - plays Apothecary
+wadomin - draws Estate
+wadomin - reveals: Curse, Familiar, University, Familiar
+wadomin - places Curse on top of deck
+wadomin - places Familiar on top of deck
+wadomin - places University on top of deck
+wadomin - places Familiar on top of deck
+wadomin - plays Moneylender
+wadomin - trashes Copper
+wadomin - buys Silver
+wadomin - gains Silver
+wadomin - draws Familiar, University, Familiar, Curse, Potion
+ 
+---------- vsiewnar: turn 15 ----------
+vsiewnar - plays Familiar
+vsiewnar - draws Silver
+vsiewnar - plays University
+vsiewnar - gains Cellar
+vsiewnar - plays 1 Potion, 1 Copper, 1 Silver
+vsiewnar - buys Silver
+vsiewnar - gains Silver
+vsiewnar - draws Cellar, Cellar, Cellar, Curse, Chancellor
+ 
+---------- wadomin: turn 15 ----------
+wadomin - plays Familiar
+wadomin - draws Estate
+wadomin - plays Familiar
+wadomin - draws Apothecary
+wadomin - plays Apothecary
+wadomin - draws Silver
+wadomin - reveals: Cellar, Library, Copper, Copper
+wadomin - places Library on top of deck
+wadomin - places Cellar on top of deck
+wadomin - plays University
+wadomin - gains Remodel
+wadomin - plays 2 Copper, 1 Potion, 1 Silver
+wadomin - buys University
+wadomin - gains University
+wadomin - draws Cellar, Library, Library, Curse, Remodel
+ 
+---------- vsiewnar: turn 16 ----------
+vsiewnar - plays Cellar
+vsiewnar - discards Cellar
+vsiewnar - discards Curse
+vsiewnar - draws Gold, Copper
+vsiewnar - plays Chancellor
+vsiewnar - moves deck to discards
+vsiewnar - plays 1 Gold, 1 Copper
+vsiewnar - buys Gold
+vsiewnar - gains Gold
+vsiewnar - shuffles deck
+vsiewnar - draws Familiar, Copper, Estate, Cellar, Curse
+ 
+---------- wadomin: turn 16 ----------
+wadomin - plays Cellar
+wadomin - discards Library
+wadomin - draws Potion
+wadomin - plays Remodel
+wadomin - trashes Curse
+wadomin - gains Copper
+wadomin - draws Curse, Copper, Silver
+wadomin - shuffles deck
+wadomin - draws Copper, Familiar
+ 
+---------- vsiewnar: turn 17 ----------
+vsiewnar - plays Familiar
+vsiewnar - draws Copper
+vsiewnar - plays Cellar
+vsiewnar - discards Estate
+vsiewnar - discards Curse
+vsiewnar - draws Curse, Copper
+vsiewnar - plays 3 Copper
+vsiewnar - buys Cellar
+vsiewnar - gains Cellar
+vsiewnar - draws Gardens, Gold, Copper, Curse, Apothecary
+ 
+---------- wadomin: turn 17 ----------
+wadomin - plays Familiar
+wadomin - draws University
+wadomin - plays University
+wadomin - gains Remodel
+wadomin - plays 2 Copper, 1 Silver
+wadomin - buys Remodel
+wadomin - gains Remodel
+wadomin - draws Familiar, Silver, Apothecary, Remodel, Library
+ 
+---------- vsiewnar: turn 18 ----------
+vsiewnar - plays Apothecary
+vsiewnar - draws Gold
+vsiewnar - reveals: Gold, Familiar, Copper, Copper
+vsiewnar - places Familiar on top of deck
+vsiewnar - places Gold on top of deck
+vsiewnar - plays 3 Copper, 2 Gold
+vsiewnar - buys Province
+vsiewnar - gains Province
+vsiewnar - draws Gold, Familiar, Cellar, Silver, Potion
+ 
+---------- wadomin: turn 18 ----------
+wadomin - plays Apothecary
+wadomin - draws Estate
+wadomin - reveals: Curse, Copper, Remodel, Curse
+wadomin - places Curse on top of deck
+wadomin - places Curse on top of deck
+wadomin - places Remodel on top of deck
+wadomin - plays Familiar
+wadomin - draws Remodel
+wadomin - plays Remodel
+wadomin - trashes Remodel
+wadomin - gains Gold
+wadomin - plays 1 Silver, 1 Copper
+wadomin - buys Silver
+wadomin - gains Silver
+wadomin - draws Curse, Curse, Cellar, Estate, University
+ 
+---------- vsiewnar: turn 19 ----------
+vsiewnar - plays Familiar
+vsiewnar - draws Cellar
+vsiewnar - plays Cellar
+vsiewnar - discards Potion
+vsiewnar - discards Cellar
+vsiewnar - draws Copper, Chancellor
+vsiewnar - plays Chancellor
+vsiewnar - plays 1 Gold, 1 Silver, 1 Copper
+vsiewnar - buys Province
+vsiewnar - gains Province
+vsiewnar - draws Curse, Estate, Cellar, Estate, Province
+ 
+---------- wadomin: turn 19 ----------
+wadomin - plays Cellar
+wadomin - discards Curse
+wadomin - discards Curse
+wadomin - discards Estate
+wadomin - draws Cellar, Potion, Apothecary
+wadomin - plays Apothecary
+wadomin - draws Library
+wadomin - reveals: Potion, Moneylender, Silver, Copper
+wadomin - places Silver on top of deck
+wadomin - places Moneylender on top of deck
+wadomin - plays University
+wadomin - gains Library
+wadomin - plays Cellar
+wadomin - plays Library
+wadomin - moves Moneylender to hand
+wadomin - draws Silver
+wadomin - shuffles deck
+wadomin - draws Silver
+wadomin - draws Copper
+wadomin - plays Moneylender
+wadomin - trashes Copper
+wadomin - plays 2 Potion, 2 Silver, 1 Copper
+wadomin - buys Apothecary
+wadomin - gains Apothecary
+wadomin - draws Estate, Familiar, Copper, Remodel, Curse
+ 
+---------- vsiewnar: turn 20 ----------
+vsiewnar - plays Cellar
+vsiewnar - discards Estate
+vsiewnar - discards Estate
+vsiewnar - discards Province
+vsiewnar - discards Curse
+vsiewnar - draws Copper, Silver, Curse, University
+vsiewnar - plays University
+vsiewnar - gains Cellar
+vsiewnar - plays 1 Copper, 1 Silver
+vsiewnar - buys Silver
+vsiewnar - gains Silver
+vsiewnar - draws Curse
+vsiewnar - shuffles deck
+vsiewnar - draws Copper, Copper, Province, Cellar
+ 
+---------- wadomin: turn 20 ----------
+wadomin - plays Familiar
+wadomin - draws Copper
+wadomin - plays Remodel
+wadomin - trashes Curse
+wadomin - gains Cellar
+wadomin - plays 2 Copper
+wadomin - buys Cellar
+wadomin - gains Cellar
+wadomin - draws Familiar, Silver, Curse, Estate, Library
+ 
+---------- vsiewnar: turn 21 ----------
+vsiewnar - plays Cellar
+vsiewnar - discards Copper
+vsiewnar - discards Copper
+vsiewnar - discards Province
+vsiewnar - discards Curse
+vsiewnar - draws Chancellor, Copper, Cellar, Cellar
+vsiewnar - plays Cellar
+vsiewnar - discards Cellar
+vsiewnar - discards Copper
+vsiewnar - draws Gold, Estate
+vsiewnar - plays Chancellor
+vsiewnar - plays 1 Gold
+vsiewnar - buys Gardens
+vsiewnar - gains Gardens
+vsiewnar - draws Copper, Curse, Silver, Silver, Cellar
+ 
+---------- wadomin: turn 21 ----------
+wadomin - plays Familiar
+wadomin - draws Gold
+wadomin - plays Library
+wadomin - discards Remodel
+wadomin - draws Silver
+wadomin - draws Curse
+wadomin - discards Library
+wadomin - discards Remodel
+wadomin - discards University
+wadomin - discards Apothecary
+wadomin - shuffles deck
+wadomin - discards Moneylender
+wadomin - draws Copper
+wadomin - discards: Remodel, Library, Remodel, University, Apothecary, Moneylender
+wadomin - plays 2 Silver, 1 Gold, 1 Copper
+wadomin - buys Province
+wadomin - gains Province
+wadomin - draws Cellar, Estate, Cellar, Familiar, Cellar
+ 
+---------- vsiewnar: turn 22 ----------
+vsiewnar - plays 2 Silver, 1 Copper
+vsiewnar - buys Gardens
+vsiewnar - gains Gardens
+vsiewnar - draws Silver, Curse, Curse, Gold, Curse
+ 
+---------- wadomin: turn 22 ----------
+wadomin - plays Familiar
+wadomin - draws Copper
+wadomin - plays Cellar
+wadomin - discards Cellar
+wadomin - discards Estate
+wadomin - discards Cellar
+wadomin - discards Copper
+wadomin - draws Silver, Copper, University, Remodel
+wadomin - plays University
+wadomin - gains Library
+wadomin - plays Remodel
+wadomin - trashes Silver
+wadomin - gains Gardens
+wadomin - draws Potion, Potion, Library, Apothecary, Cellar
+ 
+---------- vsiewnar: turn 23 ----------
+vsiewnar - plays 1 Silver, 1 Gold
+vsiewnar - buys Gardens
+vsiewnar - gains Gardens
+vsiewnar - draws Cellar, Copper, Gold, Apothecary, Estate
+ 
+---------- wadomin: turn 23 ----------
+wadomin - plays Apothecary
+wadomin - draws Silver
+wadomin - reveals: Apothecary
+wadomin - shuffles deck
+wadomin - reveals: Estate, Apothecary, Remodel
+wadomin - places Estate on top of deck
+wadomin - places Remodel on top of deck
+wadomin - places Apothecary on top of deck
+wadomin - places Apothecary on top of deck
+wadomin - plays Cellar
+wadomin - discards Potion
+wadomin - discards Potion
+wadomin - draws Apothecary, Apothecary
+wadomin - plays Apothecary
+wadomin - draws Remodel
+wadomin - reveals: Estate, Silver, University, Gardens
+wadomin - places Gardens on top of deck
+wadomin - places Estate on top of deck
+wadomin - places Silver on top of deck
+wadomin - places University on top of deck
+wadomin - plays Apothecary
+wadomin - draws University
+wadomin - reveals: Silver, Estate, Gardens, Cellar
+wadomin - places Cellar on top of deck
+wadomin - places Gardens on top of deck
+wadomin - places Estate on top of deck
+wadomin - places Silver on top of deck
+wadomin - plays University
+wadomin - gains Remodel
+wadomin - plays Remodel
+wadomin - trashes Silver
+wadomin - gains Gardens
+wadomin - plays Library
+wadomin - draws Silver
+wadomin - draws Estate
+wadomin - draws Gardens
+wadomin - discards Cellar
+wadomin - discards Library
+wadomin - draws Province
+wadomin - draws Copper
+wadomin - draws Copper
+wadomin - discards University
+wadomin - draws Gold
+wadomin - discards: Cellar, Library, University
+wadomin - plays 2 Copper, 1 Silver, 1 Gold
+wadomin - buys Gold
+wadomin - gains Gold
+wadomin - draws Remodel, Copper, Moneylender, Curse, Library
+ 
+---------- vsiewnar: turn 24 ----------
+vsiewnar - plays Apothecary
+vsiewnar - draws Cellar
+vsiewnar - reveals: Gardens, Familiar, Copper, Copper
+vsiewnar - places Familiar on top of deck
+vsiewnar - places Gardens on top of deck
+vsiewnar - plays Cellar
+vsiewnar - discards Estate
+vsiewnar - discards Cellar
+vsiewnar - draws Gardens, Familiar
+vsiewnar - plays Familiar
+vsiewnar - draws Province
+vsiewnar - plays 3 Copper, 1 Gold
+vsiewnar - buys Gardens
+vsiewnar - gains Gardens
+vsiewnar - draws Familiar, Copper, Curse, Potion, Estate
+ 
+---------- wadomin: turn 24 ----------
+wadomin - plays Remodel
+wadomin - trashes Moneylender
+wadomin - gains Gardens
+wadomin - buys Copper
+wadomin - gains Copper
+wadomin - draws Cellar, Cellar, Library, Silver, Familiar
+ 
+------------ Game Over ------------
+vsiewnar - cards: 6 Cellar, 2 Familiar, 1 Chancellor, 1 Apothecary, 1 University, 8 Copper, 3 Gold, 3 Silver, 1 Potion, 5 Gardens, 3 Estate, 3 Province, 6 Curse
+vsiewnar - total victory points: 35
+vsiewnar - turns: 24
+ 
+wadomin - cards: 4 Cellar, 4 Library, 4 Remodel, 3 Apothecary, 2 Familiar, 2 University, 4 Copper, 2 Silver, 2 Potion, 2 Gold, 3 Gardens, 2 Estate, 1 Province, 2 Curse
+wadomin - total victory points: 15
+wadomin - turns: 24
+ 
+1st place: vsiewnar
+2nd place: wadomin
+ 
